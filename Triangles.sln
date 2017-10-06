@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangles", "Triangles\Triangles.csproj", "{BAF85890-2396-41F1-9020-CAFE9B0096E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangles.Test", "UnitTestProject1\Triangles.Test.csproj", "{89C1F321-FFE2-43DF-A23B-E70F140C424C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangles.Shared", "Triangles.Shared\Triangles.Shared.csproj", "{26DEACEB-ED8D-4E9C-BA15-9C0F2B12C5F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF85890-2396-41F1-9020-CAFE9B0096E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF85890-2396-41F1-9020-CAFE9B0096E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF85890-2396-41F1-9020-CAFE9B0096E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF85890-2396-41F1-9020-CAFE9B0096E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89C1F321-FFE2-43DF-A23B-E70F140C424C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C1F321-FFE2-43DF-A23B-E70F140C424C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C1F321-FFE2-43DF-A23B-E70F140C424C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C1F321-FFE2-43DF-A23B-E70F140C424C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26DEACEB-ED8D-4E9C-BA15-9C0F2B12C5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DEACEB-ED8D-4E9C-BA15-9C0F2B12C5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DEACEB-ED8D-4E9C-BA15-9C0F2B12C5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DEACEB-ED8D-4E9C-BA15-9C0F2B12C5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
